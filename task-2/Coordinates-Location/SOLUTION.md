@@ -22,7 +22,10 @@ $ cat North.txt East.txt >> Location-Coordinate.txt (for combining two files dat
 ![Terminal](ScreenShots/c.png)
 ![Map](ScreenShots/d.png)
 
-# COMANDS USED TO PUSH COMMITS TO GITHUB REPO.
+# COMMANDS USED TO PUSH COMMITS TO GITHUB REPO.
 ```
-
+$ git clone https://github.com/Majidh4444/amfoss-tasks && cd <amfoss-tasks>
+$ git add .
+$ git commit -m "added some changes to my repo!"
+$ git push origin main
 ```
