@@ -3,7 +3,7 @@
 I am Majidh from Kuppam Andra Pradesh, fresher at Amrita School of Engineering(2021)
 |Task List|Description|Status|
 |:--------:|:----------|:-----|
-||Installing Ubuntu|Completed|
+|Task-00|Installing Ubuntu|Completed|
 |[Task-01](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-01)|Staring amFoss Repository|Completed|
 |[Task-02](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-02)|Staring amFoss repositories|Completed|
 |Task-03|Programing|Not Completed|
