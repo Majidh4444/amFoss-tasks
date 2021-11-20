@@ -20,7 +20,7 @@ I am Majidh from Kuppam Andra Pradesh, fresher at Amrita School of Engineering(2
 |[Task-14](https://github.com/Majidh4444/amfoss-tasks/tree/main/task-14)|Bandit|Completed|
 |Task-15|Project Euler|Not Completed|
 
-# My view about the tasks/Task-01/
+# My view about the tasks
 By overall I can say that some of the tasks are easy and some are moderate, remaining are bit harder for me. Because I dont have any background in coding feild so it took more time for me to solve each task. As the deadline is coming still I haven't completed some of the tasks, especially the flutter task was not completed because my laptop does not have enough specifications to run android studio which is used for simulaton purpose and if I buy my new laptop or if I update my present one I'll definitely complete this task. 
 
 By finally I can say that these tasks has build a lot of knowledge which I supposed to learn. And, Iam really thankfull for amFoss club for providing these everything for us. 
