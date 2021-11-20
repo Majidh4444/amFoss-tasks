@@ -3,22 +3,22 @@
 I am Majidh from Kuppam Andra Pradesh, fresher at Amrita School of Engineering(2021)
 |Task List|Description|Status|
 |:--------:|:----------|:-----|
-|Task-00|Installing Ubuntu|Completed|
+|[Task-00](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-00)|Installing Ubuntu|Completed|
 |[Task-01](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-01)|Staring amFoss Repository|Completed|
 |[Task-02](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-02)|Staring amFoss repositories|Completed|
-|Task-03|Programing|Not Completed|
+|[Task-03](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-03)|Programing|Not Completed|
 |[Task-04](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-04)|Aerglo|Completed|
-|Task-05|Let me see|Not Completed|
-|Task-06|Flutter Based UI Task|Not Completed|
-|Task-07|Rich Scraper|Not Completed|
-|Task-08|Js Explorer|Not Completed|
+|[Task-05](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-05)|Let me see|Not Completed|
+|[Task-06](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-06)|Flutter Based UI Task|Not Completed|
+|[Task-07](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-07)|Rich Scraper|Not Completed|
+|[Task-08](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-08)|Js Explorer|Not Completed|
 |[Task-09](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-09)|Setup a simple personal website|Completed|
-|Task-10|CS50|Completed some part|
+|[Task-10](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-10)|CS50|Completed some part|
 |[Task-11](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-11)|Poster Design|Completed|
-|Task-12|Make the Block|Not Completed|
+|[Task-12](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-12)|Make the Block|Not Completed|
 |[Task-13](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-13)|Circuit Design|Completed|
 |[Task-14](https://github.com/Majidh4444/amfoss-tasks/tree/main/task-14)|Bandit|Completed|
-|Task-15|Project Euler|Not Completed|
+|[Task-15](https://github.com/Majidh4444/amfoss-tasks/tree/main/Task-15)|Project Euler|Not Completed|
 
 # My view about the tasks
 By overall I can say that some of the tasks are easy and some are moderate, remaining are bit harder for me. Because I dont have any background in coding feild so it took more time for me to solve each task. As the deadline is coming still I haven't completed some of the tasks, especially the flutter task was not completed because my laptop does not have enough specifications to run android studio which is used for simulaton purpose and if I buy my new laptop or if I update my present one I'll definitely complete this task. 
