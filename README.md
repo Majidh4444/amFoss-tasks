@@ -1,4 +1,4 @@
-# amfoss-tasks-
+# amFoss-tasks-
 # Majidh K 
 I am Majidh from Kuppam Andra Pradesh, fresher at Amrita School of Engineering(2021)
 |Task List|Description|Status|
