@@ -1,3 +1,0 @@
-# First time working on linux and git.
-  By this task I came to know about creating a file and folder using ubuntu terminal.
-  pretty good task...
